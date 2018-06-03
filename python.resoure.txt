@@ -1,0 +1,88 @@
+-----------------------------------------------------
+ >> Python
+-----------------------------------------------------
+=> http://www.studytonight.com/python/
+=> https://pybook.subeen.com/
+=> https://www.codecademy.com/learn/learn-python
+=> http://thepythonguru.com/
+=> https://python.howtocode.com.bd
+ 
+=> Python tutorial (kunal) - Udacity 
+https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW
+
+=> Python Tutorials By Socratica - 30
+https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+=> Zero to hero with pyhton - Geeky Shares
+https://www.youtube.com/watch?v=TV9tSHFAFjg
+
+=> Python design patterns
+https://www.youtube.com/watch?v=bsyjSW46TDg
+
+=> Python tutorial - The net ninja - 29
+https://www.youtube.com/watch?v=Ozrduu2W9B8&list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK
+
+=> Python Tutorial (subeen) By Tamim Shahriar - 62
+https://www.youtube.com/watch?v=Mn9p5qRk_xU&list=PLym69wpbTIIGXpzNtfg5rTKY638oVnEby
+
+=> Python tutorial By GeeksforGeeks - 71
+https://www.youtube.com/watch?v=OLPbd-7Pp_8&list=PLqM7alHXFySHLJWu_Euw7pdI4ec1hHTLI
+
+=> Pyhton tutorial By Corey Schafer 59
+https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+=> Python OOP Tutorials By Corey Schafer 06
+https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+
+=> Python Beginners Tutorials - Bangla Programming : Thinkdiff - 14
+https://www.youtube.com/watch?v=qcRlYt28WPM&list=PLlMOodDAsO4y8_pYiKnweAz0MjR61VByU
+
+=> Python Advanced Tutorials - Bangla Programming : Thinkdiff - 10
+https://www.youtube.com/watch?v=k1rFag1W2WM&list=PLlMOodDAsO4xkdJ6Qr1-ZsyyPLiZ1J3Bq
+
+=> Python For Ethical Hacking
+https://www.youtube.com/watch?v=5sqye64-1-k&list=PLBf0hzazHTGO7wysZIzstZi1han97XY16
+
+-----------------------------------------------------
+ >> Django
+-----------------------------------------------------
+=> https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+=> https://django.howtocode.com.bd/
+
+=> Web development Django, Python, JS, Angular - CodingEntrepreneurs
+https://www.youtube.com/playlist?list=PLEsfXFp6DpzSUvTvnKaN8xmu4bRZIaawC
+
+=> Django tutorial - The net ninja - 32
+https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc
+
+=> Django bookmarks - Treehouse
+https://www.youtube.com/watch?v=wtns1w-bCZM
+
+=> Django 2 tutorial by Pretty Printed - 16
+https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf
+
+=> Django tutorial by Traversy Media
+https://www.youtube.com/watch?v=D6esTdOLXh4
+
+=> Django Tutorials for Beginners By thenewboston - 40
+https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+
+=> Udemy django tutorial
+https://www.udemy.com/python-ecommerce-build-a-django-ecommerce-web-application/?couponCode=ECOMMERCEBLITZ&siteID=ETk25ZxWng4-Kl9ka_kZ903b_EBZ8H92AA&LSNPUBID=ETk25ZxWng4
+
+=> Django bangla tutorial - Express HABIB
+https://www.youtube.com/watch?v=kk5g0oBhTaE
+
+https://www.youtube.com/watch?v=Ll5sov-LQvY&sns=em
+
+
+
+
+
+
+
+
+
+
+
+
