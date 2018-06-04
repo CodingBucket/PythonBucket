@@ -43,39 +43,6 @@ https://www.youtube.com/watch?v=k1rFag1W2WM&list=PLlMOodDAsO4xkdJ6Qr1-ZsyyPLiZ1J
 => Python For Ethical Hacking
 https://www.youtube.com/watch?v=5sqye64-1-k&list=PLBf0hzazHTGO7wysZIzstZi1han97XY16
 
------------------------------------------------------
- >> Django
------------------------------------------------------
-=> https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-=> https://django.howtocode.com.bd/
-
-=> Web development Django, Python, JS, Angular - CodingEntrepreneurs
-https://www.youtube.com/playlist?list=PLEsfXFp6DpzSUvTvnKaN8xmu4bRZIaawC
-
-=> Django tutorial - The net ninja - 32
-https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc
-
-=> Django bookmarks - Treehouse
-https://www.youtube.com/watch?v=wtns1w-bCZM
-
-=> Django 2 tutorial by Pretty Printed - 16
-https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf
-
-=> Django tutorial by Traversy Media
-https://www.youtube.com/watch?v=D6esTdOLXh4
-
-=> Django Tutorials for Beginners By thenewboston - 40
-https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
-
-=> Udemy django tutorial
-https://www.udemy.com/python-ecommerce-build-a-django-ecommerce-web-application/?couponCode=ECOMMERCEBLITZ&siteID=ETk25ZxWng4-Kl9ka_kZ903b_EBZ8H92AA&LSNPUBID=ETk25ZxWng4
-
-=> Django bangla tutorial - Express HABIB
-https://www.youtube.com/watch?v=kk5g0oBhTaE
-
-https://www.youtube.com/watch?v=Ll5sov-LQvY&sns=em
-
-
 
 
 
