@@ -40,4 +40,7 @@ https://www.youtube.com/watch?v=KiGE2KpiwtA&index=1&list=PLei96ZX_m9sWlZ9pgnJ6ei
 => Django & React tutorial - CodingEntrepreneurs - 3.53h
 https://www.youtube.com/watch?v=AHhQRHE8IR8
 
+=> Beyond django basic - PyCon 2018 - 3.15m
+https://www.youtube.com/watch?v=Fzlg95lrILk
+
 
