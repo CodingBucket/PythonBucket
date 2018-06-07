@@ -37,4 +37,7 @@ https://www.youtube.com/watch?v=Ll5sov-LQvY&list=PLlMOodDAsO4ytqbGWRIs34fs_bIKG9
 => Django 1.9 tutorial - Chris Hawkes - 7
 https://www.youtube.com/watch?v=KiGE2KpiwtA&index=1&list=PLei96ZX_m9sWlZ9pgnJ6eix76lffAZ2_0
 
+=> Django & React tutorial - CodingEntrepreneurs - 3.53h
+https://www.youtube.com/watch?v=AHhQRHE8IR8
+
 
