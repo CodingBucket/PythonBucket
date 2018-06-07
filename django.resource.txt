@@ -25,9 +25,6 @@ https://www.youtube.com/watch?v=D6esTdOLXh4
 => Django Tutorials for Beginners By thenewboston - 40
 https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
 
-=> Udemy django tutorial
-https://www.udemy.com/python-ecommerce-build-a-django-ecommerce-web-application/?couponCode=ECOMMERCEBLITZ&siteID=ETk25ZxWng4-Kl9ka_kZ903b_EBZ8H92AA&LSNPUBID=ETk25ZxWng4
-
 => Django bangla tutorial - Express HABIB
 https://www.youtube.com/watch?v=kk5g0oBhTaE
 
