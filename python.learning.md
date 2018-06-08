@@ -47,3 +47,9 @@ print("{0:.^10}".format("Guido"))   #..Guido...
 print("{0:.<20} {1:.>20} {2:.^20} ".format("Product", "Price", "Sum"))
 #'Product............. ...............Price ........Sum.........'
 ```
+
+> Number print
+```python
+r = 12.99
+print("%.0lf" % r) # 13
+```
