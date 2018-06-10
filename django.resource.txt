@@ -1,5 +1,5 @@
 -----------------------------------------------------
- >> Django
+ # Django
 -----------------------------------------------------
 => https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 => https://django.howtocode.com.bd/
@@ -25,10 +25,7 @@ https://www.youtube.com/watch?v=D6esTdOLXh4
 => Django Tutorials for Beginners By thenewboston - 40
 https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
 
-=> Django bangla tutorial - Express HABIB
-https://www.youtube.com/watch?v=kk5g0oBhTaE
-
-=> Django bangla tutorial - Bangla Programming : Thinkdiff - 7
+=> Django bangla tutorial - Bangla Programming : Thinkdiff - 7 - s
 https://www.youtube.com/watch?v=Ll5sov-LQvY&list=PLlMOodDAsO4ytqbGWRIs34fs_bIKG9lXg
 
 => Django 1.9 tutorial - Chris Hawkes - 7
