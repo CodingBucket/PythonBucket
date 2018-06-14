@@ -41,12 +41,6 @@ https://www.youtube.com/watch?v=qcRlYt28WPM&list=PLlMOodDAsO4y8_pYiKnweAz0MjR61V
 https://www.youtube.com/watch?v=k1rFag1W2WM&list=PLlMOodDAsO4xkdJ6Qr1-ZsyyPLiZ1J3Bq
 
 -----------------------------------------------------
- # Basic
------------------------------------------------------
-=> Data Structures and Algorithms in Bangla - Tamim Shahriar - 23
-https://www.youtube.com/watch?v=Mz9BlmST31w&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_
-
------------------------------------------------------
  # Others
 -----------------------------------------------------
 => Creating a Chatbot with Deep Learning - sentdex - 9
