@@ -1,0 +1,16 @@
+-----------------------------------------------------
+ # Data Structures and Algorithms
+-----------------------------------------------------
+=> https://www.hackerearth.com/practice/
+=> https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+=> https://www.geeksforgeeks.org/data-structures/
+=> https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+=> Data Structures and Algorithms in Bangla - Tamim Shahriar - 23
+https://www.youtube.com/watch?v=Mz9BlmST31w&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_
+
+=> GeeksforGeeks
+https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?view=1&flow=grid
+
+=> HackerRank
+https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/videos
