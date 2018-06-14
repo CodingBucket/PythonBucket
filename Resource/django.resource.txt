@@ -16,16 +16,16 @@ https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x
 => Django bookmarks - Treehouse
 https://www.youtube.com/watch?v=wtns1w-bCZM
 
-=> Django 2 tutorial by Pretty Printed - 16
+=> Django 2 tutorial - Pretty Printed - 16
 https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf
 
-=> Django tutorial by Traversy Media
+=> Django tutorial - Traversy Media
 https://www.youtube.com/watch?v=D6esTdOLXh4
 
-=> Django Tutorials for Beginners By thenewboston - 40
+=> Django Tutorials for Beginners - thenewboston - 40
 https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
 
-=> Django bangla tutorial - Bangla Programming : Thinkdiff - 7 - s
+=> Django bangla tutorial - Thinkdiff - 7 - s
 https://www.youtube.com/watch?v=Ll5sov-LQvY&list=PLlMOodDAsO4ytqbGWRIs34fs_bIKG9lXg
 
 => Django 1.9 tutorial - Chris Hawkes - 7
@@ -37,4 +37,6 @@ https://www.youtube.com/watch?v=AHhQRHE8IR8
 => Beyond django basic - PyCon 2018 - 3.15m
 https://www.youtube.com/watch?v=Fzlg95lrILk
 
+=> Django Web Development - sentdex - 12
+https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
 
