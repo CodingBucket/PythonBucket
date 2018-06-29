@@ -1,5 +1,25 @@
+----------------------------------------------
+# Machine Learning
+----------------------------------------------
+https://www.tutorialspoint.com/python_deep_learning/index.htm
+https://www.tutorialspoint.com/machine_learning_with_python/index.htm
+
+https://www.coursera.org/learn/machine-learning/lecture/zcAuT/welcome-to-machine-learning
+
+=> Machine learning tutorial - Udacity - 494
+https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
+
+----------------------------------------------
+# TensorFlow
+----------------------------------------------
+https://www.tutorialspoint.com/python_deep_learning/index.htm
+
 => Creating a Chatbot with Deep Learning - sentdex - 9
 https://www.youtube.com/watch?v=K2hFNFN9lRc&index=2&list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j
 
 => Tensorflow/TF Tutorial - Sentdex - 14
 https://www.youtube.com/watch?v=oYbVFhK_olY&index=1&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP
+
+=> TF tutorial - Hvass Laboratories - 30
+https://www.youtube.com/watch?v=er8RQZoX3yk&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
+
