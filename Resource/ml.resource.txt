@@ -24,8 +24,6 @@ https://www.youtube.com/watch?v=u5oTz1e5qqE
 ----------------------------------------------
 # TensorFlow
 ----------------------------------------------
-https://www.tutorialspoint.com/python_deep_learning/index.htm
-
 => Creating a Chatbot with Deep Learning - sentdex - 9
 https://www.youtube.com/watch?v=K2hFNFN9lRc&index=2&list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j
 
