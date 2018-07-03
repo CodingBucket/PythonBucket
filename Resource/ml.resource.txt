@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7
 => Developing Intelligent Bots from Zero to Hero - coderschool - 4h
 https://www.youtube.com/watch?v=pXkn4R04zKU
 
+=> Getting Started with Microsoft Azure Machine Learning - coderschool - 2.3h
+https://www.youtube.com/watch?v=uhE35sQY9v0
+
 ----------------------------------------------
 # TensorFlow
 ----------------------------------------------
