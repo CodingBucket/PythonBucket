@@ -9,6 +9,9 @@ https://www.coursera.org/learn/machine-learning/lecture/zcAuT/welcome-to-machine
 => Machine learning tutorial - Udacity - 494
 https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
 
+=> Developing Intelligent Bots from Zero to Hero - coderschool - 4h
+https://www.youtube.com/watch?v=pXkn4R04zKU
+
 ----------------------------------------------
 # TensorFlow
 ----------------------------------------------
