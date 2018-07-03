@@ -9,11 +9,17 @@ https://www.coursera.org/learn/machine-learning/lecture/zcAuT/welcome-to-machine
 => Machine learning tutorial - Udacity - 494
 https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
 
+----------------------------------------------
+# ML.NET
+----------------------------------------------
 => Developing Intelligent Bots from Zero to Hero - coderschool - 4h
 https://www.youtube.com/watch?v=pXkn4R04zKU
 
 => Getting Started with Microsoft Azure Machine Learning - coderschool - 2.3h
 https://www.youtube.com/watch?v=uhE35sQY9v0
+
+=> Scott Hanselman’s best demo! IoT, Azure, Machine Learning - Microsoft Visual Studio - 15m
+https://www.youtube.com/watch?v=u5oTz1e5qqE
 
 ----------------------------------------------
 # TensorFlow
