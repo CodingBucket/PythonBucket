@@ -46,3 +46,6 @@ https://www.youtube.com/watch?v=veVNGngTTGA&list=PL17e914FE7W_06CHI7nHdHQPywljfA
 => Django tutorial - Max Goodridge - 62
 https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj
 
+=> Try DJANGO Tutorial Series - CodingEntrepreneurs - 17
+https://www.youtube.com/watch?v=uu98pqiUJU8&list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW
+
