@@ -1,4 +1,4 @@
-> #### End of file error handle ####
+* #### End of file error handle ####
 
 ````python
   while True:
