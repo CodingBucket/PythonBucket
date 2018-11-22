@@ -70,3 +70,9 @@ print("{0:.<20} {1:.>20} {2:.^20} ".format("Product", "Price", "Sum"))
 r = 12.99
 print("%.0lf" % r) # 13
 ```
+
+> Print variable memory location
+```python
+x = 10
+print(id(x))
+```
