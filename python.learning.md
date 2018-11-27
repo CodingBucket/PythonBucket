@@ -40,12 +40,6 @@ list.append(4)
 print(list)
 ````
 
-> #### Print variable memory location ####
-````python
-x = 10
-print(id(x))
-````
-
 > #### End of file error handle ####
 ````python
   while True:
