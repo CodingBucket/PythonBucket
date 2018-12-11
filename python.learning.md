@@ -18,18 +18,19 @@ x = y = 1
 > #### String ####
 ````python
 s = 'string'
-print(len(s))        # output: 6
-print(s[0])          # output: s
-print(s[-1])         # output: g
-print(s[0:3])        # output: str
-print(s.upper())     # output: STRING
-print(s.lower())     # output: string
-print(s.title())     # output: String
-print(s.strip())     # removes space
-print(s.find('in'))  # find part of string, output: 3
-print(s.replace('s', 'r'))  # output: rtring
-print('str' in s)  # output: True
-print('str' not in s)  # output: False
+len(s)               # out: 6
+s.__len__()          # out: 6
+s[0]                 # out: s
+s[-1]                # out: g
+s[0:3]               # out: str
+s.upper()            # out: STRING
+s.lower()            # out: string
+s.title()            # out: String
+s.strip()            # removes space
+s.find('in')         # find part of string, output: 3
+s.replace('s', 'r')  # out: rtring
+'str' in s           # out: True
+'str' not in s       # out: False
 ````
 
 > #### List ####
@@ -103,4 +104,17 @@ print("%.0lf" % r) # 13
 ```python
 x = 10
 print(id(x))
+```
+
+> #### Show variable type ####
+```python
+type(1)        # out: <class 'int'>
+```
+
+> #### To clear screen ####
+```python
+import os
+
+os.system('CLS')     # For windows
+os.system('clear')   # For Linux
 ```
