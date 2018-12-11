@@ -10,9 +10,16 @@ aaa
 bbb
 ccc
 """
+
 # Multiple variable assaign
 x, y = 1, 2
 x = y = 1
+
+# Data swape
+s1 = 's1'
+s2 = 's2'
+s1, s2 = s2, s1
+s1, s2    # out: ('s2', 's1')
 ````
 
 > #### String ####
@@ -27,7 +34,7 @@ s.upper()            # out: STRING
 s.lower()            # out: string
 s.title()            # out: String
 s.strip()            # removes space
-s.find('in')         # find part of string, output: 3
+s.find('in')         # find part of string, out: 3
 s.replace('s', 'r')  # out: rtring
 'str' in s           # out: True
 'str' not in s       # out: False
