@@ -151,8 +151,8 @@ li = [1] * 3         # out: [1, 1, 1]
 
 > #### Copy ####
 ```python
-Shallow copy: a reference of object is copied in other object.
-Deep copy: a copy of object is copied in other object.
+# Shallow copy: a reference of object is copied in other object.
+# Deep copy: a copy of object is copied in other object.
 import copy
 li3 = copy.copy(li)     # Shallow copy
 li2 = copy.deepcopy(li) # Deep copy
