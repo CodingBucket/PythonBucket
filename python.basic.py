@@ -1,8 +1,10 @@
-# Variable
-import os
 import copy
+import os
+
+# Variable
 student_count = 10
 name = "hasan"
+
 
 # Multiline string variable
 course_name = """
@@ -11,15 +13,18 @@ bbb
 ccc
 """
 
+
 # Multiple variable assaign
 x, y = 1, 2
 x = y = 1
+
 
 # Data swape
 s1 = 's1'
 s2 = 's2'
 s1, s2 = s2, s1
 s1, s2    # out: ('s2', 's1')
+
 
 # String
 s = 'string'
@@ -54,9 +59,10 @@ while True:
     except EOFError:
         break
 
+
 # Loop index print of list using enumerate
-list = ['a', 'b', 'c']
-for index, i in enumerate(list):
+li = ['a', 'b', 'c']
+for index, i in enumerate(li):
     print(index)
 
 
@@ -74,6 +80,7 @@ with open("demo.txt") as f:
     content = f.readlines()
     content = [x.strip() for x in content]
 
+
 # Write file
 text_file = open("result.txt", "w")
 text_file.write(s)
@@ -88,6 +95,7 @@ print("{0:.^10}".format("Guido"))   # ..Guido...
 print("{0:.<20} {1:.>20} {2:.^20} ".format("Product", "Price", "Sum"))
 # 'Product............. ...............Price ........Sum.........'
 
+
 # Number print
 r = 12.99
 print("%.0lf" % r)  # 13
@@ -98,28 +106,24 @@ x = 10
 print(id(x))
 
 
-# Show variable type
-type(1)        # out: <class 'int'>
-
-
 # List
 li = [1, 2, 3, 4]
 len(li)
 type(li)
 li2 = list(range(5))  # out: [0, 1, 2, 3, 4]
-li2 = [*range(5)]    # out: [0, 1, 2, 3, 4]
-li.reverse()         # Reverse the actual list
-li[::-1]             # Returns a reversed list without modifiing the actual list
-li.sort()            # Sort the actual list
-li.insert(0, 0)      # Insert item in specific index, insert(index, item)
-li.append(4)         # Append item in the list
-del li[0]            # Delete the list item
-li.pop(0)            # Delete & returns the deleted list item, 0 is li index.
-li.remove(1)         # Removes the element
-li = li + [4]        # List concate, out: [1, 2, 3, 4]
-li.extend(li2)       # li2 added in li
-li.count(2)          # Count specific element
-li = [1] * 3         # out: [1, 1, 1]
+li2 = [*range(5)]     # out: [0, 1, 2, 3, 4]
+li.reverse()          # Reverse the actual list
+li[::-1]              # Returns a reversed list without modifiing the actual list
+li.sort()             # Sort the actual list
+li.insert(0, 0)       # Insert item in specific index, insert(index, item)
+li.append(4)          # Append item in the list
+del li[0]             # Delete the list item
+li.pop(0)             # Delete & returns the deleted list item, 0 is li index.
+li.remove(1)          # Removes the element
+li = li + [4]         # List concate, out: [1, 2, 3, 4]
+li.extend(li2)        # li2 added in li
+li.count(2)           # Count specific element
+li = [1] * 3          # out: [1, 1, 1]
 
 
 # List Comprehension
@@ -130,6 +134,7 @@ for item in li:
     if item % 2:
         even.append(item)
 print(even)              # out: [2, 4, 6, 8, 10]
+
 
 # List comprehension way
 even = [item for item in li if item % 2 == 0]
