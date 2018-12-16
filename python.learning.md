@@ -149,6 +149,21 @@ li.count(2)          # Count specific element
 li = [1] * 3         # out: [1, 1, 1]
 ```
 
+> #### List Comprehension ####
+```python
+# Normal way
+li = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+even = []
+for item in li:
+ if item % 2:
+  even.append(item);
+print(even)              # out: [2, 4, 6, 8, 10]
+
+# List comprehension way
+even = [item for item in li if item % == 0]
+print(even)              # out: [2, 4, 6, 8, 10]
+```
+
 > #### Copy ####
 ```python
 # Shallow copy: a reference of object is copied in other object.
