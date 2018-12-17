@@ -43,6 +43,12 @@ s.replace('s', 'r')  # out: rtring
 s.strip()            # removes space
 s.lstrip()           # Removes space from the left side of the string.
 s.strip()            # Removes space from the right side of the string.
+s = 'a b c'
+s.split()            # out: ['a', 'b', 'c']
+'1'.rjust(2)         # out: ' 1'
+'1'.ljust(2)         # out: '1 '
+'1'.center(3)        # out: ' 1 '
+'1'.zfill(2)         # out: '01'
 
 
 # bool
@@ -124,6 +130,9 @@ li = li + [4]         # List concate, out: [1, 2, 3, 4]
 li.extend(li2)        # li2 added in li
 li.count(2)           # Count specific element
 li = [1] * 3          # out: [1, 1, 1]
+li = ['a', 'b', 'c']
+''.join(li)           # out: 'abc'
+list('abc')           # out: ['a', 'b', 'c']
 
 
 # List Comprehension
@@ -158,3 +167,23 @@ a, b = 0, 1
 while b < 22:
     print(b, end=' ')
     a, b = b, a + b
+
+# Error handling
+try:
+    result = a/b
+except ZeroDivisionError:
+    print("You cant divide by zero")
+except TypeError:
+    print("Data type not supported")
+else:
+    print(result)
+finally:
+    print("Inside finally")
+
+# Stack - LIFO - Last in first out
+li = [1, 2, 3]
+li.append(4)    # out: [1, 2, 3, 4]
+li.pop()        # out: 4, Removes the last element
+
+# Queue - FIFO - First in first out
+li.pop(0)       # out: 1, Removes the first element
