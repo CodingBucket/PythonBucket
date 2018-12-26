@@ -1,4 +1,5 @@
-# List
+# => List:
+# A list is a collection which is ordered and changeable.
 li = [1, 2, 3, 4]
 li2 = list(range(5))  # out: [0, 1, 2, 3, 4]
 li.reverse()          # Reverse the actual list
@@ -44,9 +45,9 @@ li.pop()        # out: 4, Removes the last element
 li.pop(0)       # out: 1, Removes the first element
 
 
-# Set:
-# - A set is a collection which is unordered and unindexed.
-# - set object does not support indexing
+# => Set:
+# A set is a collection which is unordered and unindexed.
+# set object does not support indexing
 s = {"a", "b", "c"}
 s1 = {'c', 'd', 'e'}
 s.add("d")                  # add single item in set
@@ -69,12 +70,49 @@ s.symmetric_difference_update(s1)  # update s with symmetric difference
 del s                       # delete the set complely
 
 
-# Tuple: A tuple is a collection which is ordered and unchangeable.
-# - tuple items can be accessed by index number
+# => Tuple:
+# A tuple is a collection which is ordered and unchangeable.
+# tuple items can be accessed by index number
 t = (1, 2, 3, 4)
 t.count(3)
 t.index(2)
 del t
 
 
-# Dictionary: A dictionary is a collection which is unordered, changeable and indexed.
+# => Dictionary:
+# A dictionary is a collection which is unordered, changeable and indexed.
+d = {'k1': 'v1', 'k2': 'v2', 'k3': 'v3'}
+d['k1']      # out: 'v1'
+d.get('k1')  # out: 'v1'
+d.pop('k1')
+
+# Print all key names in the dictionary, one by one:
+for x in d.keys():
+    print(x)
+
+# You can also use the values() function to return values of a dictionary:
+for x in d.values():
+    print(x)
+
+# Loop through both keys and values, by using the items() function:
+for x, y in d.items():
+    print(x, y)
+
+d1 = d.copy()      # shallow copy
+d.clear()          # removes all items from the dictionary
+d.keys()           # Returns a list contianing the dictionary's keys
+d.pop('k1')        # Removes the element with the specified key
+d.popitem()        # Removes the last inserted key-value pair
+
+# The setdefault() method returns the value of the item with the specified key.
+# If the key does not exist, insert the key, with the specified value
+d.setdefault("key", "value")
+
+# The update() method inserts the specified items to the dictionary.
+# The specified items can be a dictionary, or an iterable object.
+d.update({'k4': 'v4', 'k5': 'v5'})
+
+# - returns a dictionary with the specified keys and values.
+d.fromkeys('k', 'v')
+del d['k1']
+del d

@@ -1,3 +1,5 @@
+import json
+import datetime
 import copy
 import os
 
@@ -130,10 +132,15 @@ else:
 finally:
     print("Inside finally")
 
-# Iterator
+# Iterator:
+# An iterator is an object that contains a countable number of values.
+# An iterator is an object that can be iterated upon, meaning that you can traverse through all the values.
+# Technically, in Python, an iterator is an object which implements the iterator protocol, which consist of the methods __iter__() and __next__().
+# iteration stopped when StopIteration is raised
 s = 'bangladesh'
 st = iter(s)
 st.__next__()  # out: b
+next(st)       # out: a
 
 # Generator
 
@@ -163,3 +170,63 @@ str(1)     # out: '1'
 # Operator
 2**3  # Exponential out: 8
 7//2  # Floor out: 3
+
+# If else
+if b > a:
+    print("b is greater than a")
+elif a == b:
+    print("a and b are equal")
+else:
+    print("a is greater than b")
+
+if a > b:
+    print("a is greater than b")   # one line statement
+
+print("A") if a > b else print("B")  # shorhand if else
+
+
+# Lamda
+# A lambda function is a small anonymous function.
+# A lambda function can take any number of arguments, but can only have one expression.
+
+# lam = lambda a : a + 10
+# lam(2)    # out: 12
+# x = lambda a, b, c : a + b + c
+# print(x(5, 6, 2))
+
+def myfunc(n):
+    return lambda a: a * n
+
+
+mydoubler = myfunc(2)
+print(mydoubler(11))
+
+
+# Datetime
+# import datetime
+x = datetime.datetime.now()
+dir(x)           # shows all available methods
+print(x)         # print current datetime
+print(x.year)
+print(x.strftime('%A'))  # print current day
+
+x = datetime.datetime(2020, 5, 17)  # Creating date object
+print(x)    # out: 2020-05-17 00:00:00
+
+
+# JSON
+# import json
+# Convert from JSON to Python:
+x = '{ "name":"John", "age":30, "city":"New York"}'  # some JSON:
+y = json.loads(x)  # parse x:
+print(y["age"])    # the result is a Python dictionary:
+j = json.dumps(y)  # convert into JSON:
+
+# Use the indent parameter to define the numbers of indents
+json.dumps(x, indent=4)
+
+# Use the separators parameter change the default separator
+json.dumps(x, indent=4, separators=(". ", " = "))
+
+# Use the sort_keys parameter to specify if the result should be sorted or not:
+json.dumps(x, indent=4, sort_keys=True)

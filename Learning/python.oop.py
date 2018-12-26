@@ -1,6 +1,10 @@
 
 # Clsss, Class object, Instance object
 
+# self:
+# The self parameter is a reference to the class instance itself,
+# and is used to access variables that belongs to the class.
+
 
 class Rectangle:
     def __init__(self):
@@ -27,6 +31,8 @@ ob.area()
 print(Square.side)    # Square is class object
 print(Square.area(ob))
 ob.__class__          # Shows the object class
+del ob.area           # Delete object property
+del ob                # Delete object
 
 
 # Instance
