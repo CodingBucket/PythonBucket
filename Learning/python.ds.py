@@ -1,4 +1,4 @@
-# => List:
+# List:
 # A list is a collection which is ordered and changeable.
 li = [1, 2, 3, 4]
 li2 = list(range(5))  # out: [0, 1, 2, 3, 4]
@@ -45,7 +45,7 @@ li.pop()        # out: 4, Removes the last element
 li.pop(0)       # out: 1, Removes the first element
 
 
-# => Set:
+# Set:
 # A set is a collection which is unordered and unindexed.
 # set object does not support indexing
 s = {"a", "b", "c"}
@@ -70,7 +70,7 @@ s.symmetric_difference_update(s1)  # update s with symmetric difference
 del s                       # delete the set complely
 
 
-# => Tuple:
+# Tuple:
 # A tuple is a collection which is ordered and unchangeable.
 # tuple items can be accessed by index number
 t = (1, 2, 3, 4)
@@ -79,7 +79,7 @@ t.index(2)
 del t
 
 
-# => Dictionary:
+# Dictionary:
 # A dictionary is a collection which is unordered, changeable and indexed.
 d = {'k1': 'v1', 'k2': 'v2', 'k3': 'v3'}
 d['k1']      # out: 'v1'
