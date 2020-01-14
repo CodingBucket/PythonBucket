@@ -1,6 +1,6 @@
 # Get the sentiment of text from a website
 
-# pip install newspaper3k textblob
+# pip install newspaper3k nltk textblob
 
 # Import the libraries
 from textblob import TextBlob

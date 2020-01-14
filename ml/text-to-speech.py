@@ -1,5 +1,7 @@
 # Description: This program takes text from an online article and convert it to speech
 
+# pip install newspaper3k nltk gtts
+
 # Import the libraries
 from newspaper import Article
 import nltk
@@ -9,16 +11,15 @@ import os
 # Get the article
 article = Article('https://hackernoon.com/future-of-python-language-bright-or-dull-uv41u3xwx')
 
-article.download() # Download the article
-article.parse()   # Parse the article
-nltk.download('punkt') # Download the punkt package
-article.nlp() # Apply NLP (Natural Language Processing)
+# Apply Natural Language Processing
+article.download() 
+article.parse()   
+nltk.download('punkt')
+article.nlp() 
 
-# Get the articles text and store it into a variable
+# Get the articles text
 mytext = article.text
-
 print(mytext)
-
 language = 'en'
 
 # Convert text to speech
