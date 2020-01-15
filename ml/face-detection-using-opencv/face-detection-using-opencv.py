@@ -18,7 +18,13 @@ print('The coordinates of each face detected: ', faces)
 
 # Loop over all coordinates faces and draw rectangles
 for (x,y,w,h) in faces:
+    # Draw face detection
     cv2.rectangle(image, (x,y), (x+w, y+h), (0,255,0), 2)
+    # Draw eye detection
+    roi_face = image[y:y+h, x:x+w]
+    eyes = eye_cascade.detectMultiScale(roi_face, 1.3, 5)
+    for (ex, ey, ew, eh) in eyes:
+        cv2.rectangle(roi_face, (ex,ey), (ex+ew, ey+eh), (255, 0, 0), 2)
 
 # Show image
 cv2.imshow('image', image)
